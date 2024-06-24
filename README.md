@@ -24,4 +24,7 @@ The dashboard should provide real-time insights into key performance indicators 
 ## Overall ##
 * The pizza store business is doing well.
 * Further improvement to be made: Reasons for the low sales recorded in February and December.
+
+## Dashboard Visualisation ##
+https://project.novypro.com/kedq1y
 ****
